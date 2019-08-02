@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fetch_pockemon/static/css/main.3e6b36e3.chunk.css",
+    "main.js": "/fetch_pockemon/static/js/main.ee04454d.chunk.js",
+    "main.js.map": "/fetch_pockemon/static/js/main.ee04454d.chunk.js.map",
+    "runtime~main.js": "/fetch_pockemon/static/js/runtime~main.01a65550.js",
+    "runtime~main.js.map": "/fetch_pockemon/static/js/runtime~main.01a65550.js.map",
+    "static/js/2.d5ed7b26.chunk.js": "/fetch_pockemon/static/js/2.d5ed7b26.chunk.js",
+    "static/js/2.d5ed7b26.chunk.js.map": "/fetch_pockemon/static/js/2.d5ed7b26.chunk.js.map",
+    "index.html": "/fetch_pockemon/index.html",
+    "precache-manifest.e35fd5783e409d51ae54a066fdadaee6.js": "/fetch_pockemon/precache-manifest.e35fd5783e409d51ae54a066fdadaee6.js",
+    "service-worker.js": "/fetch_pockemon/service-worker.js",
+    "static/css/main.3e6b36e3.chunk.css.map": "/fetch_pockemon/static/css/main.3e6b36e3.chunk.css.map"
+  }
+}
